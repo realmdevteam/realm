@@ -473,7 +473,7 @@ public class Realm
 		GameRegistry.registerWorldGenerator(new WorldGenRealm());
 
 	EntityRegistry.registerGlobalEntityID(EntityBison.class, "Bison", EntityRegistry.findGlobalUniqueEntityId(), 0x646464, 0x3A3A3A);
-	LanguageRegistry.instance().addStringLocalization("entity.Bison.name", "en_US", "AtmoBison");
+	LanguageRegistry.instance().addStringLocalization("entity.Bison.name", "en_US", "Bison");
 		
 	}
 	
